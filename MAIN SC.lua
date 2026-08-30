@@ -1,7 +1,5 @@
 -- ======================== AUTOFARM SCRIPT ========================
-local CalmLib = loadstring([[
--- paste the FIXED CalmLib code from above here
-]])()  -- or keep using the fixed version you just have
+local CalmLib = loadstring([[https://raw.githubusercontent.com/sigma-byte21/SELL-A-LEMON-AUTOFARM-ROBLOS-CREDIT-TO-VAEHZ-/refs/heads/main/EXTRAS.lua]])()  -- or keep using the fixed version you just have
 
 -- For easy use, here's the complete ready-to-run version:
 
